@@ -111,4 +111,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Math
+|  |
+| ------- |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yash-patni/Leetcode-Practice/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+## Recursion
+|  |
+| ------- |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yash-patni/Leetcode-Practice/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 <!---LeetCode Topics End-->
