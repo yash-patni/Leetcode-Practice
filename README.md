@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1293-three-consecutive-odds](https://github.com/yash-patni/Leetcode-Practice/tree/master/1293-three-consecutive-odds) |
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yash-patni/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
