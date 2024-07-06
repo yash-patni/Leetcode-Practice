@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [2645-pass-the-pillow](https://github.com/yash-patni/Leetcode-Practice/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yash-patni/Leetcode-Practice/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Recursion
 |  |
@@ -150,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0584-find-customer-referee](https://github.com/yash-patni/Leetcode-Practice/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/yash-patni/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/yash-patni/Leetcode-Practice/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
