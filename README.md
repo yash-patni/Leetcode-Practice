@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/yash-patni/Leetcode-Practice/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/yash-patni/Leetcode-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-patni/Leetcode-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -180,10 +181,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
+| [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
 ## Queue
 |  |
 | ------- |
