@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/yash-patni/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
