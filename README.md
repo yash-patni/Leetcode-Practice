@@ -225,16 +225,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [1653-number-of-good-leaf-nodes-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
