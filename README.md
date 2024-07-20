@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/yash-patni/Leetcode-Practice/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/yash-patni/Leetcode-Practice/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/yash-patni/Leetcode-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Math
 |  |
 | ------- |
