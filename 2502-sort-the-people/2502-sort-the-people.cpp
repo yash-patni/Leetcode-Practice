@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n-1;i++){
             swapped=false;
             for(int j=0;j<n-i-1;j++){
-                if(heights[j]>heights[j+1]){
+                if(heights[j]<heights[j+1]){
                     swap(heights[j], heights[j+1]);
                     swap(names[j], names[j+1]);
                     swapped=true;
@@ -16,7 +16,7 @@ public:
                 break;
             }
         }
-        reverse(names.begin(), names.end());
+        // reverse(names.begin(), names.end());
         return names;
     }
 };
