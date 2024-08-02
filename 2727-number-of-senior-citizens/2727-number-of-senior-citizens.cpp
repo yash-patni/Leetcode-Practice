@@ -1,11 +1,12 @@
 class Solution {
 public:
     int countSeniors(vector<string>& details) {
-        int ans = 0;
-        for (auto& x : details) {
-            int age = stoi(x.substr(11, 2));
-            ans += age > 60;
+        int count=0;
+        for(auto&str : details){
+            string s=str.substr(11,2);
+            int x=stoi(s);
+            if(x>60)count++;
         }
-        return ans;
+        return count;
     }
 };
