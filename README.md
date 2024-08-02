@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/yash-patni/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yash-patni/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yash-patni/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yash-patni/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bit Manipulation
 |  |
@@ -319,4 +321,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yash-patni/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/yash-patni/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
