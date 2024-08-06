@@ -1,4 +1,4 @@
-/* Write your PL/SQL query statement below */
-select product_id 
-from Products p
-where p.low_fats='Y' and p.recyclable='Y';
+# Write your MySQL query statement below
+SELECT p.product_id
+FROM Products p
+WHERE p.low_fats='Y' AND recyclable='Y';
