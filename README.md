@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yash-patni/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1196-filling-bookcase-shelves) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/yash-patni/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yash-patni/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
@@ -346,4 +349,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash-patni/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
