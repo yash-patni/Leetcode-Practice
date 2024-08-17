@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
+| [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash-patni/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yash-patni/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yash-patni/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
