@@ -2,8 +2,8 @@ class Solution {
 public:
     int stoneGameII(vector<int>& piles) {
         int n=piles.size();
-        vector<vector<int>> dp(n, vector<int>(n+1, 0));
-        vector<int> suffSum(n,-1);
+        vector<vector<int>> dp(n, vector<int>(n+1, 0));//max stones alice could get from index i with curr m 
+        vector<int> suffSum(n,-1);// to store number of pile from ith index to last
         int sum=0;
         for(int i=n-1;i>=0;i--){
             sum+=piles[i];
