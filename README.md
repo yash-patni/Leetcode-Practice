@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0890-lemonade-change](https://github.com/yash-patni/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/yash-patni/Leetcode-Practice/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [0650-2-keys-keyboard](https://github.com/yash-patni/Leetcode-Practice/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/yash-patni/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/yash-patni/Leetcode-Practice/tree/master/2645-pass-the-pillow) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-patni/Leetcode-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
@@ -348,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0650-2-keys-keyboard](https://github.com/yash-patni/Leetcode-Practice/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 ## Trie
 |  |
 | ------- |
@@ -374,4 +378,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
