@@ -7,7 +7,7 @@ public:
         k=k%sum;
         int i=0;
         while(chalk[i]<=k){
-            k=k-chalk[i];
+            k=k-chalk[i%n];
             i++;
             i=i%n;
         }
