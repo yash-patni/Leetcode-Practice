@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/yash-patni/Leetcode-Practice/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/yash-patni/Leetcode-Practice/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yash-patni/Leetcode-Practice/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
@@ -442,4 +444,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
