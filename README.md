@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/yash-patni/Leetcode-Practice/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-patni/Leetcode-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
 |  |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yash-patni/Leetcode-Practice/tree/master/2727-number-of-senior-citizens) |
 ## Stack
@@ -318,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/yash-patni/Leetcode-Practice/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
