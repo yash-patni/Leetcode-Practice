@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1196-filling-bookcase-shelves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/yash-patni/Leetcode-Practice/tree/master/1293-three-consecutive-odds) |
+| [1435-xor-queries-of-a-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-patni/Leetcode-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0371-sum-of-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/yash-patni/Leetcode-Practice/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
