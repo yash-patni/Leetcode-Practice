@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash-patni/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash-patni/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -204,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
+| [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash-patni/Leetcode-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yash-patni/Leetcode-Practice/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
@@ -291,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0344-reverse-string) |
+| [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash-patni/Leetcode-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
