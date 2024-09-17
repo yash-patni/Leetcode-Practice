@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/yash-patni/Leetcode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/yash-patni/Leetcode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 ## Divide and Conquer
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash-patni/Leetcode-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/yash-patni/Leetcode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/yash-patni/Leetcode-Practice/tree/master/1720-crawler-log-folder) |
