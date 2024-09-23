@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/yash-patni/Leetcode-Practice/tree/master/2379-maximum-total-importance-of-roads) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Graph
 |  |
 | ------- |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Linked List
 |  |
 | ------- |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yash-patni/Leetcode-Practice/tree/master/2727-number-of-senior-citizens) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
