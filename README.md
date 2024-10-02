@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
+| [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/yash-patni/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -209,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/yash-patni/Leetcode-Practice/tree/master/1036-rotting-oranges) |
