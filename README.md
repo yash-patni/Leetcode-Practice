@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0584-find-customer-referee](https://github.com/yash-patni/Leetcode-Practice/tree/master/0584-find-customer-referee) |
 | [1390-average-selling-price](https://github.com/yash-patni/Leetcode-Practice/tree/master/1390-average-selling-price) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yash-patni/Leetcode-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/yash-patni/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
