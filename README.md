@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/yash-patni/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/yash-patni/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/yash-patni/Leetcode-Practice/tree/master/0650-2-keys-keyboard) |
