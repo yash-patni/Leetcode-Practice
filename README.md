@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-design-circular-deque](https://github.com/yash-patni/Leetcode-Practice/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/yash-patni/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0948-sort-an-array) |
+| [1002-maximum-width-ramp](https://github.com/yash-patni/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/yash-patni/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1196-filling-bookcase-shelves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yash-patni/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/yash-patni/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 | [1078-remove-outermost-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -501,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
+| [1002-maximum-width-ramp](https://github.com/yash-patni/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 ## Game Theory
 |  |
 | ------- |
