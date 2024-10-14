@@ -5,12 +5,9 @@ public:
         int n=prices.size();
         int profit=0;
         for(int i=1;i<n;i++){
-            if(prices[i]-buy>profit){
-                profit=prices[i]-buy;
-            }
-            else if(buy>prices[i]){
-                buy=prices[i];
-            }
+            int cost=prices[i]-buy;
+            profit=max(profit, cost);
+            buy=min(buy, prices[i]);
         }
         return profit;
     }
