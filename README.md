@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/yash-patni/Leetcode-Practice/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yash-patni/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/yash-patni/Leetcode-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
 |  |
 | ------- |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yash-patni/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/yash-patni/Leetcode-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -371,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/yash-patni/Leetcode-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/yash-patni/Leetcode-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
