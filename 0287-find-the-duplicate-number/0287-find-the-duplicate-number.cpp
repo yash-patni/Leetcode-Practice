@@ -24,7 +24,7 @@ public:
         // }
         // return ans;
         // TC: O(NlogN) //SC:O(1)
-        
+        //-----------------------
         //slow fast approach
         //cycle flow
         //for test case 1:
@@ -44,10 +44,6 @@ public:
             mp=nums[mp];
         }
         return sp;
-    }
-    
-    
-
-    
-     
+        //TC: O(N) SC: O(1)
+    }    
 };
