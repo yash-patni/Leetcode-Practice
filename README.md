@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yash-patni/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/yash-patni/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0263-ugly-number) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/yash-patni/Leetcode-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/yash-patni/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
