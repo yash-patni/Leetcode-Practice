@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/yash-patni/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yash-patni/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0148-sort-list) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/yash-patni/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yash-patni/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/yash-patni/Leetcode-Practice/tree/master/0118-pascals-triangle) |
