@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/yash-patni/Leetcode-Practice/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/yash-patni/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yash-patni/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/1304-longest-happy-string) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash-patni/Leetcode-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/yash-patni/Leetcode-Practice/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/yash-patni/Leetcode-Practice/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/yash-patni/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
