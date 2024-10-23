@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash-patni/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0948-sort-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash-patni/Leetcode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash-patni/Leetcode-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash-patni/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -456,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0662-maximum-width-of-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
@@ -470,6 +474,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/yash-patni/Leetcode-Practice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -566,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/yash-patni/Leetcode-Practice/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/yash-patni/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1484-linked-list-in-binary-tree) |
 ## Union Find
