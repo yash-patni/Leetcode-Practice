@@ -371,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yash-patni/Leetcode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -516,11 +517,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yash-patni/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/yash-patni/Leetcode-Practice/tree/master/0118-pascals-triangle) |
