@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash-patni/Leetcode-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0812-rotate-string) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash-patni/Leetcode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yash-patni/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -612,4 +613,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/yash-patni/Leetcode-Practice/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
