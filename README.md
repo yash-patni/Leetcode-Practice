@@ -281,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/yash-patni/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/yash-patni/Leetcode-Practice/tree/master/2155-find-missing-observations) |
+| [2507-number-of-common-factors](https://github.com/yash-patni/Leetcode-Practice/tree/master/2507-number-of-common-factors) |
 | [2645-pass-the-pillow](https://github.com/yash-patni/Leetcode-Practice/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yash-patni/Leetcode-Practice/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -604,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2507-number-of-common-factors](https://github.com/yash-patni/Leetcode-Practice/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
@@ -621,4 +623,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0812-rotate-string) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/yash-patni/Leetcode-Practice/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
