@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2379-maximum-total-importance-of-roads](https://github.com/yash-patni/Leetcode-Practice/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yash-patni/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/yash-patni/Leetcode-Practice/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yash-patni/Leetcode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/yash-patni/Leetcode-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yash-patni/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yash-patni/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-patni/Leetcode-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2507-number-of-common-factors](https://github.com/yash-patni/Leetcode-Practice/tree/master/2507-number-of-common-factors) |
 | [2645-pass-the-pillow](https://github.com/yash-patni/Leetcode-Practice/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yash-patni/Leetcode-Practice/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
+| [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -612,6 +616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/yash-patni/Leetcode-Practice/tree/master/2507-number-of-common-factors) |
+| [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
