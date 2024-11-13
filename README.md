@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash-patni/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/yash-patni/Leetcode-Practice/tree/master/0859-design-circular-deque) |
@@ -626,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 ## Combinatorics
 |  |
 | ------- |
