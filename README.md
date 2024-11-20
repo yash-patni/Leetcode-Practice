@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/yash-patni/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yash-patni/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/yash-patni/Leetcode-Practice/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/yash-patni/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/yash-patni/Leetcode-Practice/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/yash-patni/Leetcode-Practice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3195-separate-black-and-white-balls](https://github.com/yash-patni/Leetcode-Practice/tree/master/3195-separate-black-and-white-balls) |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/yash-patni/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Combinatorics
 |  |
 | ------- |
