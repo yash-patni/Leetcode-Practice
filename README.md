@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/yash-patni/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/yash-patni/Leetcode-Practice/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yash-patni/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/1256-rank-transform-of-an-array) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash-patni/Leetcode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-patni/Leetcode-Practice/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yash-patni/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash-patni/Leetcode-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/yash-patni/Leetcode-Practice/tree/master/1036-rotting-oranges) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yash-patni/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yash-patni/Leetcode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/yash-patni/Leetcode-Practice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
