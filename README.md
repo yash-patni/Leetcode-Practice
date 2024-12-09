@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/yash-patni/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/yash-patni/Leetcode-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3429-special-array-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/3429-special-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
