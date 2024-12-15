@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [0859-design-circular-deque](https://github.com/yash-patni/Leetcode-Practice/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/yash-patni/Leetcode-Practice/tree/master/0890-lemonade-change) |
+| [0898-transpose-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/0898-transpose-matrix) |
 | [0948-sort-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/yash-patni/Leetcode-Practice/tree/master/1002-maximum-width-ramp) |
 | [1036-rotting-oranges](https://github.com/yash-patni/Leetcode-Practice/tree/master/1036-rotting-oranges) |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/yash-patni/Leetcode-Practice/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/yash-patni/Leetcode-Practice/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yash-patni/Leetcode-Practice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash-patni/Leetcode-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0898-transpose-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/yash-patni/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/yash-patni/Leetcode-Practice/tree/master/1803-average-waiting-time) |
