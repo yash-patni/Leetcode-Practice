@@ -400,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/yash-patni/Leetcode-Practice/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/yash-patni/Leetcode-Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/yash-patni/Leetcode-Practice/tree/master/0584-find-customer-referee) |
+| [1161-project-employees-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/1161-project-employees-i) |
 | [1390-average-selling-price](https://github.com/yash-patni/Leetcode-Practice/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yash-patni/Leetcode-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/yash-patni/Leetcode-Practice/tree/master/1801-average-time-of-process-per-machine) |
