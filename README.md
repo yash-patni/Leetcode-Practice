@@ -401,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/yash-patni/Leetcode-Practice/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/yash-patni/Leetcode-Practice/tree/master/0584-find-customer-referee) |
 | [1161-project-employees-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/1161-project-employees-i) |
+| [1338-queries-quality-and-percentage](https://github.com/yash-patni/Leetcode-Practice/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/yash-patni/Leetcode-Practice/tree/master/1390-average-selling-price) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/yash-patni/Leetcode-Practice/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/yash-patni/Leetcode-Practice/tree/master/1773-percentage-of-users-attended-a-contest) |
