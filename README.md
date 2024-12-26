@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yash-patni/Leetcode-Practice/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/yash-patni/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yash-patni/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yash-patni/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/yash-patni/Leetcode-Practice/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/yash-patni/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/yash-patni/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/yash-patni/Leetcode-Practice/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0202-happy-number) |
