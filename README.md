@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash-patni/Leetcode-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/yash-patni/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yash-patni/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash-patni/Leetcode-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/yash-patni/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/yash-patni/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/yash-patni/Leetcode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/yash-patni/Leetcode-Practice/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/yash-patni/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0061-rotate-list) |
