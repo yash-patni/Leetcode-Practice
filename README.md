@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/yash-patni/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/yash-patni/Leetcode-Practice/tree/master/0455-assign-cookies) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/yash-patni/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/yash-patni/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0344-reverse-string) |
 | [0539-minimum-time-difference](https://github.com/yash-patni/Leetcode-Practice/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
