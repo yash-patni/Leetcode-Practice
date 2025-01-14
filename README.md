@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yash-patni/Leetcode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/yash-patni/Leetcode-Practice/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yash-patni/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yash-patni/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3291-find-if-array-can-be-sorted](https://github.com/yash-patni/Leetcode-Practice/tree/master/3291-find-if-array-can-be-sorted) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yash-patni/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yash-patni/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting
@@ -550,6 +552,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yash-patni/Leetcode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/yash-patni/Leetcode-Practice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/yash-patni/Leetcode-Practice/tree/master/3394-minimum-array-end) |
 ## Tree
