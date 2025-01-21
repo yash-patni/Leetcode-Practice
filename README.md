@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yash-patni/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/yash-patni/Leetcode-Practice/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yash-patni/Leetcode-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2232-adding-spaces-to-a-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/yash-patni/Leetcode-Practice/tree/master/1972-rotating-the-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yash-patni/Leetcode-Practice/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Math
 |  |
@@ -478,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-patni/Leetcode-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2145-grid-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/2145-grid-game) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yash-patni/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
