@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/yash-patni/Leetcode-Practice/tree/master/1803-average-waiting-time) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/yash-patni/Leetcode-Practice/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-patni/Leetcode-Practice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
