@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/yash-patni/Leetcode-Practice/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2379-maximum-total-importance-of-roads](https://github.com/yash-patni/Leetcode-Practice/tree/master/2379-maximum-total-importance-of-roads) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash-patni/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yash-patni/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yash-patni/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/yash-patni/Leetcode-Practice/tree/master/2379-maximum-total-importance-of-roads) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash-patni/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yash-patni/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yash-patni/Leetcode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/2232-adding-spaces-to-a-string) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash-patni/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/yash-patni/Leetcode-Practice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
@@ -269,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yash-patni/Leetcode-Practice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/yash-patni/Leetcode-Practice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2448-count-number-of-bad-pairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/yash-patni/Leetcode-Practice/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2486-most-frequent-even-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/2486-most-frequent-even-element) |
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
