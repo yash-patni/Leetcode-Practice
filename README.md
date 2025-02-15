@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/yash-patni/Leetcode-Practice/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yash-patni/Leetcode-Practice/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/yash-patni/Leetcode-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
@@ -687,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/yash-patni/Leetcode-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/yash-patni/Leetcode-Practice/tree/master/0046-permutations) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/yash-patni/Leetcode-Practice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
