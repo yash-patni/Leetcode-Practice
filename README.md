@@ -581,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/yash-patni/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/yash-patni/Leetcode-Practice/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -701,6 +702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/yash-patni/Leetcode-Practice/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/yash-patni/Leetcode-Practice/tree/master/0241-different-ways-to-add-parentheses) |
+| [0338-counting-bits](https://github.com/yash-patni/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [0650-2-keys-keyboard](https://github.com/yash-patni/Leetcode-Practice/tree/master/0650-2-keys-keyboard) |
 | [0747-min-cost-climbing-stairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
 | [1196-filling-bookcase-shelves](https://github.com/yash-patni/Leetcode-Practice/tree/master/1196-filling-bookcase-shelves) |
