@@ -11,7 +11,7 @@ class Solution:
             'M': 1000
         }
         ans=0
-        for i in range(len(s)-1):
+        for i in range(n-1):
             if mp[s[i]] < mp[s[(i+1)]]:
                 ans-=mp[s[i]]
             else:
