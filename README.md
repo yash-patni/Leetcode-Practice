@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/yash-patni/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/yash-patni/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yash-patni/Leetcode-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/yash-patni/Leetcode-Practice/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/yash-patni/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/yash-patni/Leetcode-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/yash-patni/Leetcode-Practice/tree/master/0338-counting-bits) |
