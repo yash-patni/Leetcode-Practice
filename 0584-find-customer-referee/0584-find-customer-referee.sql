@@ -1,4 +1,3 @@
-/* Write your PL/SQL query statement below */
-SELECT name 
-from Customer c
-where c.referee_id != 2 or c.referee_id is null;
+SELECT name
+FROM customer 
+WHERE referee_id != 2 or referee_id is null;
