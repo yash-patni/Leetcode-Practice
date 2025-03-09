@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
-SELECT v.customer_id, COUNT(v.visit_id) AS count_no_trans 
-from Visits v 
-LEFT JOIN Transactions t 
-ON v.visit_id = t.visit_id  
-WHERE t.transaction_id IS NULL 
-GROUP BY v.customer_id; 
+SELECT DISTINCT V.CUSTOMER_ID, COUNT(V.VISIT_ID) AS COUNT_NO_TRANS
+FROM VISITS V
+LEFT JOIN TRANSACTIONS T
+ON V.VISIT_ID = T.VISIT_ID
+WHERE T.TRANSACTION_ID IS NULL
+GROUP BY CUSTOMER_ID
