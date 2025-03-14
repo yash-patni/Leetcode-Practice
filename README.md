@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash-patni/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0729-my-calendar-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/yash-patni/Leetcode-Practice/tree/master/0747-min-cost-climbing-stairs) |
+| [0841-shortest-distance-to-a-character](https://github.com/yash-patni/Leetcode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0859-design-circular-deque](https://github.com/yash-patni/Leetcode-Practice/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/yash-patni/Leetcode-Practice/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/yash-patni/Leetcode-Practice/tree/master/0898-transpose-matrix) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/yash-patni/Leetcode-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0841-shortest-distance-to-a-character](https://github.com/yash-patni/Leetcode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0908-middle-of-the-linked-list](https://github.com/yash-patni/Leetcode-Practice/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yash-patni/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yash-patni/Leetcode-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/yash-patni/Leetcode-Practice/tree/master/0841-shortest-distance-to-a-character) |
 | [0889-buddy-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash-patni/Leetcode-Practice/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yash-patni/Leetcode-Practice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
