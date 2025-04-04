@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/yash-patni/Leetcode-Practice/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/yash-patni/Leetcode-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yash-patni/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yash-patni/Leetcode-Practice/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/yash-patni/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yash-patni/Leetcode-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -822,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-patni/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yash-patni/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
