@@ -233,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yash-patni/Leetcode-Practice/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/yash-patni/Leetcode-Practice/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2716-prime-subtraction-operation](https://github.com/yash-patni/Leetcode-Practice/tree/master/2716-prime-subtraction-operation) |
 | [2727-number-of-senior-citizens](https://github.com/yash-patni/Leetcode-Practice/tree/master/2727-number-of-senior-citizens) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/yash-patni/Leetcode-Practice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-patni/Leetcode-Practice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yash-patni/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yash-patni/Leetcode-Practice/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -834,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/yash-patni/Leetcode-Practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/yash-patni/Leetcode-Practice/tree/master/0643-maximum-average-subarray-i) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/yash-patni/Leetcode-Practice/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/yash-patni/Leetcode-Practice/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
