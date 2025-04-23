@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/yash-patni/Leetcode-Practice/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/yash-patni/Leetcode-Practice/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yash-patni/Leetcode-Practice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1500-count-largest-group](https://github.com/yash-patni/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/yash-patni/Leetcode-Practice/tree/master/1502-construct-k-palindrome-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash-patni/Leetcode-Practice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/yash-patni/Leetcode-Practice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/yash-patni/Leetcode-Practice/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/yash-patni/Leetcode-Practice/tree/master/0670-maximum-swap) |
 | [1240-stone-game-ii](https://github.com/yash-patni/Leetcode-Practice/tree/master/1240-stone-game-ii) |
+| [1500-count-largest-group](https://github.com/yash-patni/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/yash-patni/Leetcode-Practice/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yash-patni/Leetcode-Practice/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/yash-patni/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
