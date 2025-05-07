@@ -521,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/yash-patni/Leetcode-Practice/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/yash-patni/Leetcode-Practice/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/yash-patni/Leetcode-Practice/tree/master/1908-recyclable-and-low-fat-products) |
+| [2041-the-latest-login-in-2020](https://github.com/yash-patni/Leetcode-Practice/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/yash-patni/Leetcode-Practice/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/yash-patni/Leetcode-Practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Simulation
